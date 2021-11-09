@@ -6,7 +6,7 @@ on:
 
 env:
   AWS_REGION: eu-west-1
-  FUNCTION_NAME: cloud-workshop-lambda
+  FUNCTION_NAME: cloud-workshop-demo
   DEPLOYMENT_PACKAGE: deploy.zip
 
 jobs:
